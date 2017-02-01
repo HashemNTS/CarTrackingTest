@@ -1,0 +1,32 @@
+PODS:
+  - Alamofire (4.3.0)
+  - EVReflection (4.1.0):
+    - EVReflection/Core (= 4.1.0)
+  - EVReflection/Core (4.1.0)
+  - Hue (2.0.1)
+  - IQKeyboardManagerSwift (4.0.8)
+  - MBProgressHUD (1.0.0)
+  - SwiftyJSON (3.1.4)
+  - Toast-Swift (2.0.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.3)
+  - EVReflection (~> 4.1.0)
+  - Hue
+  - IQKeyboardManagerSwift (~> 4.0.4)
+  - MBProgressHUD
+  - SwiftyJSON
+  - Toast-Swift (~> 2.0.0)
+
+SPEC CHECKSUMS:
+  Alamofire: 856a113053a7bc9cbe5d6367a555d773fc5cfef7
+  EVReflection: 22bb8525d0da6459fce6bb6e92010bf3cd81f093
+  Hue: 354caec055fdc9d38b5ef33ca2e7224721843baf
+  IQKeyboardManagerSwift: c04bc9f68473823f825eb44d958fce98d921bead
+  MBProgressHUD: 4890f671c94e8a0f3cf959aa731e9de2f036d71a
+  SwiftyJSON: c2842d878f95482ffceec5709abc3d05680c0220
+  Toast-Swift: 5b2f8f720f7e78e48511f693df1f9c9a6e38a25a
+
+PODFILE CHECKSUM: d54bdec5b1901b4f2c4dbc39ea001faadea0f1d0
+
+COCOAPODS: 1.0.1
